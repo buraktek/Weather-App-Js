@@ -1,4 +1,6 @@
 # Weather-App-Js
 
+![image](preview.png)
+
 Preview:
-https://github.com/buraktek/buraktek.github.io/tree/main/Weather-App-Js/index.html
+https://buraktek.github.io/Weather-App-Js/index
